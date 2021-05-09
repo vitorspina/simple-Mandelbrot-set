@@ -2,7 +2,14 @@
 
 Um script em Python 3 utilizando a biblioteca Pillow para a criação de fractais de Mandelbrot.
 sinta-se livre para utilizar o codigo caso deseje, esse programa foi feito para treinar e aprender mais sobre a biblioteca Pillow para criação de imagens.
+Você irá precisar de duas biliotecas instaladas no seu computador a Pillow e a Numpy. Para instalar é necessario além de o Python instalado com o PIP executar a seguinte linha de comando no seu Prompt
+- .
 
+		pip install pillow
+		pip install numpy
+		
+		
+		
 Lincese: MIT
 
 Copyright (c) <2021> <Vitor Piña>
