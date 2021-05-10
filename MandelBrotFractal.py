@@ -62,8 +62,9 @@ def fractal_maker(tamanho,nome,times,tipo):
 
   img2.save((nome+".png"))
 
-fractal_maker(1700,"fractal",100,'sin')
-
+tipos = ['sin','exp','simple']
+fractal_maker(1000,"fractal",100,tipos[1])
+  
 
 
 
